@@ -1,0 +1,9 @@
+jnk.bike
+NS kirjed:
+  nameserver = demand.delta.aridns.net.au
+  nameserver = demand.beta.arisnnet.au
+  nameserver = demand.alpha.aridns.net.au
+  nameserver = demand.gamma.aridns.net.au
+Päring nimeserverite pihta:
+  
+  
